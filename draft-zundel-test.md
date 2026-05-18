@@ -2,7 +2,7 @@
 title: "draft-zundel-test"
 category: info
 
-docname: draft-todo-yourname-protocol-latest
+docname: draft-zundel-test-latest
 submissiontype: IETF  # also: "independent", "editorial", "IAB", or "IRTF"
 number:
 date:
@@ -24,9 +24,9 @@ venue:
 
 author:
  -
-    fullname: Your Name Here
+    fullname: "Brent Zundel"
     organization: Your Organization Here
-    email: your.email@example.com
+    email: "brent.zundel@gmail.com"
 
 normative:
 
